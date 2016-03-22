@@ -1,0 +1,1 @@
+@perl.exe "%~dp0mr" %*
