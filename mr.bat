@@ -1,1 +1,1 @@
-perl mr %*
+perl %~dp0\mr %*
